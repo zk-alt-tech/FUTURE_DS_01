@@ -32,7 +32,7 @@ Microsoft Excel
 - Data preparation
 - Pivot Tables and charts
 
-PowerBI
+Microsoft PowerBI
 - Dashboard develpoment and visualisation
 - KPI reporting
 
@@ -42,8 +42,6 @@ Revenue Trends
 Top Products
 
 Geographic Performance
-
-Customer Analysis
 
 ## Recommendations:
 Prioritise inventory for top-selling products.
@@ -57,9 +55,7 @@ Prepare Inventory and promotions ahead of seasonal peaks.
 ## Repositary Structure:
 Data and workings
 
-Dashboard
-
-Report
+Dashboard with insights and recommendations
 
 Screenshots
 
