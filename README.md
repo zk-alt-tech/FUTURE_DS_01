@@ -55,9 +55,7 @@ Prepare Inventory and promotions ahead of seasonal peaks.
 ## Repositary Structure:
 Data and workings
 
-Dashboard with insights and recommendations
-
-Screenshots
+Client-ready Dashboard (with insights and recommendations, uploaded as a PDF)
 
 README.md
 
